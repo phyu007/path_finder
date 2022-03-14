@@ -1,0 +1,22 @@
+{
+  "BP": {
+    "stationName": "Bukit Panjang",
+    "lastStationPosition": 14
+  },
+  "PE": {
+    "stationName": "Punggol",
+    "lastStationPosition": 8
+  },
+  "PW": {
+    "stationName": "Punggol",
+    "lastStationPosition": 8
+  },
+  "SE": {
+    "stationName": "Sengkang",
+    "lastStationPosition": 6
+  },
+  "SW": {
+    "stationName": "Sengkang",
+    "lastStationPosition": 9
+  }
+}

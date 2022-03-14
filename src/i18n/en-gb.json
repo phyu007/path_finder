@@ -1,0 +1,17 @@
+{
+  "pathFinder.header.title": "Singapore's Rail Network Shortest Path Finder",
+  "pathFinder.autocompleteTextBox.placeholder": "Filter stations",
+  "pathFinder.autocompleteTextBox.message": "Enter the name of a station",
+  "pathFinder.autocompleteTextBox.loading": "Loading...",
+  "pathFinder.autocompleteTextBox.noMathes": "No matches for ",
+  "pathFinder.autocompleteTextBox.from": "From",
+  "pathFinder.autocompleteTextBox.to": "To",
+  "pathFinder.itinerary.takeLine": "Take line",
+  "pathFinder.itinerary.fromStation": "from station",
+  "pathFinder.itinerary.toStation": "to station",
+  "pathFinder.itinerary.changeToLine": "Change to line",
+  "pathFinder.itinerary.exitAtStation": "Exit at station",
+  "pathFinder.itinerary.pleasantJourney": "Have a pleasant journey",
+  "pathFinder.itinerary.letsGo": "There you go",
+  "pathFinder.itinerary.atStation": "at station"
+}
