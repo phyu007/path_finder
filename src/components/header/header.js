@@ -12,7 +12,7 @@ const header = () => {
       <h2>
         <FormattedMessage
           id="pathFinder.header.title"
-          defaultMessage="Singapore Future Rail Network Path Finder"
+          defaultMessage="I solemnly swear that I am up to no good"
         />
       </h2>
     </Container>

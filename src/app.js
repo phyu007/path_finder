@@ -8,7 +8,7 @@ const App = () => {
     <div className="app">
       <Container />
       <GlobalStyles />
-      <img src="assets/sg-bg.jpg" id="bg" alt="" />
+      <img src="assets/edu.jpg" id="bg" alt="" />
     </div>
   );
 };

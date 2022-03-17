@@ -1,0 +1,671 @@
+{ 
+  "Office Assistant III":{
+  "NS": 10
+  },
+  "Account Executive":{
+  "EW": 9
+  },
+  "Chief Design Engineer":{
+  "NS": 16
+  },
+  "Chemical Engineer":{
+  "JS": 7
+  },
+  "Recruiting Manager":{
+  "SE": 3
+  },
+  "Marketing Assistant":{
+  "BP": 9
+  },
+  "Assistant Media Planner":{
+  "CC": 12
+  },
+  "Electrical Engineer":{
+  "CE": 1,
+  "DT": 16
+  },
+  "Junior Executive":{
+  "TE": 29
+  },
+  "Automation Specialist III":{
+  "DT": 5
+  },
+  "Human Resources Assistant II":{
+  "EW": 5
+  },
+  "Geologist III":{
+  "DT": 29
+  },
+  "Civil Engineer":{
+  "DT": 30
+  },
+  "Computer Systems Analyst I":{
+  "TE": 30
+  },
+  "Programmer III":{
+  "DT": 21
+  },
+  "Social Worker":{
+  "DT": 23
+  },
+  "Clinical Specialist":{
+  "NS": 17,
+  "CC": 15
+  },
+  "GIS Technical Architect":{
+  "NE": 9
+  },
+  "Statistician IV":{
+  "EW": 27,
+  "JS": 8
+  },
+  "Occupational Therapist":{
+  "CC": 19,
+  "DT": 9
+  },
+  "Analog Circuit Design manager":{
+  "NS": 18
+  },
+  "Structural Engineer":{
+  "CC": 2
+  },
+  "Environmental Tech":{
+  "TE": 7
+  },
+  "Mechanical Systems Engineer":{
+  "NE": 15
+  },
+  "Web Designer III":{
+  "EW": 12,
+  "DT": 14
+  },
+  "Help Desk Operator":{
+  "NS": 2
+  },
+  "Software Test Engineer II":{
+  "JE": 3
+  },
+  "Research Assistant IV":{
+  "NS": 3
+  },
+  "Executive Secretary":{
+  "BP": 6,
+  "DT": 1
+  },
+  "Accountant II":{
+  "EW": 21,
+  "CC": 22
+  },
+  "VP Marketing":{
+  "CC": 17,
+  "TE": 9
+  },
+  "Operator":{
+  "NS": 12
+  },
+  "Engineer III":{
+  "CC": 31
+  },
+  "Account Representative II":{
+  "DT": 2
+  },
+  "Biostatistician II":{
+  "CG": 2
+  },
+  "Tax Accountant":{
+  "SW": 1
+  },
+  "Automation Specialist I":{
+  "NE": 4,
+  "DT": 19
+  },
+  "Project Manager":{
+  "EW": 25
+  },
+  "Systems Administrator I":{
+  "NS": 4,
+  "JS": 1,
+  "BP": 1
+  },
+  "Database Administrator II":{
+  "JS": 2
+  },
+  "Programmer Analyst III":{
+  "NS": 25,
+  "EW": 13
+  },
+  "Human Resources Assistant IV":{
+  "NE": 5
+  },
+  "Developer II":{
+  "EW": 23
+  },
+  "Accountant III":{
+  "EW": 20
+  },
+  "Software Test Engineer I":{
+  "SE": 1
+  },
+  "Accounting Assistant IV":{
+  "PE": 3
+  },
+  "Web Designer II":{
+  "JS": 5
+  },
+  "Cove": {
+  "PE": 1
+  },
+  "Accounting Assistant II":{
+  "CC": 8
+  },
+  "Teacher":{
+  "PE": 7
+  },
+  "Programmer Analyst IV":{
+  "NS": 24,
+  "NE": 6,
+  "CC": 1
+  },
+  "Budget/Accounting Analyst IV":{
+  "EW": 22
+  },
+  "Health Coach IV":{
+  "DT": 17
+  },
+  "Biostatistician III":{
+  "JS": 9
+  },
+  "Accountant I":{
+  "CC": 3
+  },
+  "Office Assistant II":{
+  "EW": 7
+  },
+  "Expo": {
+  "CG": 1,
+  "DT": 35
+  },
+  "Account Representative IV":{
+  "BP": 10
+  },
+  "Accounting Assistant I":{
+  "SW": 2
+  },
+  "Automation Specialist IV":{
+  "NE": 8
+  },
+  "Technical Writer3":{
+  "CC": 20
+  },
+  "Compensation Analyst6":{
+  "SW": 5
+  },
+  "Biostatistician IV9":{
+  "DT": 20
+  },
+  "Cost Accountant12":{
+  "TE": 22
+  },
+  "Recruiter15":{
+  "JW": 1
+  },
+  "Account Representative III18":{
+  "DT": 24
+  },
+  "Help Desk Technician21":{
+  "TE": 15
+  },
+  "Editor24":{
+  "EW": 30
+  },
+  "Graphic Designer27":{
+  "NE": 1,
+  "CC": 29
+  },
+  "Health Coach II31":{
+  "TE": 16
+  },
+  "Environmental Specialist34":{
+  "CC": 25
+  },
+  "Senior Developer37":{
+  "DT": 3
+  },
+  "Research Nurse40":{
+  "CC": 21
+  },
+  "Financial Advisor43":{
+  "JS": 4
+  },
+  "Accountant IV46":{
+  "NE": 14
+  },
+  "Senior Editor49":{
+  "DT": 22
+  },
+  "Quality Engineer52":{
+  "BP": 12
+  },
+  "Actuary55":{
+  "EW": 29
+  },
+  "Business Systems Development Analyst58":{
+  "NS": 1,
+  "EW": 24,
+  "JE": 5
+  },
+  "VP Sales63":{
+  "JS": 11
+  },
+  "Database Administrator IV66":{
+  "JS": 12
+  },
+  "Office Assistant IV69":{
+  "JE": 6
+  },
+  "Information Systems Manager72":{
+  "JS": 6
+  },
+  "Geological Engineer75":{
+  "PE": 5
+  },
+  "Biostatistician I78":{
+  "DT": 28
+  },
+  "Help Desk Operator81":{
+  "EW": 10
+  },
+  "Software Test Engineer II84":{
+  "SE": 4
+  },
+  "Research Assistant IV87":{
+  "TE": 24
+  },
+  "Executive Secretary90":{
+  "BP": 3
+  },
+  "Internal Auditor93":{
+  "EW": 6
+  },
+  "Payment Adjustment Coordinator96":{
+  "CC": 24
+  },
+  "Statistician III99":{
+  "CC": 30
+  },
+  "Operator102":{
+  "NS": 14
+  },
+  "Engineer III105":{
+  "DT": 6
+  },
+  "Account Representative II108":{
+  "NE": 13
+  },
+  "Biostatistician II111":{
+  "NS": 7
+  },
+  "Tax Accountant114":{
+  "SW": 3
+  },
+  "Automation Specialist I117":{
+  "CC": 27
+  },
+  "Associate Professor120":{
+  "EW": 26
+  },
+  "Data Coordiator123":{
+  "EW": 11
+  },
+  "Software Test Engineer IV126":{
+  "SW": 6
+  },
+  "Database Administrator II129":{
+  "TE": 5
+  },
+  "Programmer Analyst III132":{
+  "NE": 7,
+  "DT": 12
+  },
+  "Human Resources Assistant IV136":{
+  "CC": 14
+  },
+  "Developer II139":{
+  "CC": 10,
+  "DT": 26
+  },
+  "Administrative Assistant III143":{
+  "CE": 2,
+  "NS": 27,
+  "TE": 20,
+  "CC": 33
+  },
+  "Web Developer III149":{
+  "TE": 21
+  },
+  "Media Manager II152":{
+  "NS": 28
+  },
+  "Human Resources Assistant I155":{
+  "TE": 26
+  },
+  "Staff Accountant III158":{
+  "TE": 27
+  },
+  "Developer III161":{
+  "NS": 8
+  },
+  "Systems Administrator II164":{
+  "CC": 16
+  },
+  "Account Representative I167":{
+  "DT": 25
+  },
+  "Programmer II170":{
+  "TE": 18
+  },
+  "Safety Technician II173":{
+  "TE": 6
+  },
+  "Web Developer IV176":{
+  "PE": 2
+  },
+  "Developer IV179":{
+  "TE": 10
+  },
+  "Health Coach I182":{
+  "CC": 7
+  },
+  "Safety Technician I185":{
+  "JW": 4
+  },
+  "Programmer IV188":{
+  "JW": 3
+  },
+  "Developer I191":{
+  "TE": 12
+  },
+  "Office Assistant III194":{
+  "NS": 21,
+  "DT": 11
+  },
+  "VP Quality Control198":{
+  "PW": 5
+  },
+  "Registered Nurse201":{
+  "CC": 5
+  },
+  "Assistant Manager204":{
+  "NS": 20
+  },
+  "Structural Analysis Engineer207":{
+  "PE": 6
+  },
+  "Director of Sales210":{
+  "CC": 23
+  },
+  "Analyst Programmer213":{
+  "NS": 22,
+  "TE": 14
+  },
+  "Editor217":{
+  "TE": 13
+  },
+  "Graphic Designer220":{
+  "EW": 16,
+  "NE": 3,
+  "TE": 17
+  },
+  "Human Resources Assistant II225":{
+  "JE": 7
+  },
+  "Geologist III228":{
+  "CC": 26
+  },
+  "Civil Engineer231":{
+  "EW": 1
+  },
+  "Computer Systems Analyst I234":{
+  "EW": 8,
+  "CC": 9
+  },
+  "Nuclear Power Engineer238":{
+  "BP": 8
+  },
+  "Statistician I241":{
+  "JW": 5
+  },
+  "Product Engineer244":{
+  "BP": 7
+  },
+  "GIS Technical Architect247":{
+  "BP": 5
+  },
+  "Statistician IV250":{
+  "EW": 28
+  },
+  "Professor253":{
+  "NE": 10
+  },
+  "VP Sales256":{
+  "CC": 32
+  },
+  "Database Administrator IV259":{
+  "CC": 4,
+  "DT": 15,
+  "CE": 0
+  },
+  "Environmental Tech264":{
+  "NE": 17,
+  "PE": 0,
+  "PW": 0
+  },
+  "Software Engineer III269":{
+  "NE": 18
+  },
+  "Account Coordinator272":{
+  "PW": 3
+  },
+  "Research Assistant I275":{
+  "EW": 19
+  },
+  "Librarian278":{
+  "NS": 26,
+  "EW": 14
+  },
+  "Administrative Assistant I282":{
+  "SE": 5
+  },
+  "Engineer IV285":{
+  "EW": 18
+  },
+  "Software Consultant288":{
+  "SW": 8
+  },
+  "VP Marketing291":{
+  "PE": 4
+  },
+  "Database Administrator III294":{
+  "DT": 13
+  },
+  "Software Engineer II297":{
+  "SE": 2
+  },
+  "Systems Administrator IV300":{
+  "PW": 1
+  },
+  "Staff Accountant I303":{
+  "PW": 4
+  },
+  "Sales Representative306":{
+  "BP": 11
+  },
+  "VP Product Management309":{
+  "NS": 11
+  },
+  "Software Engineer I312":{
+  "NE": 16,
+  "SE": 0,
+  "SW": 0
+  },
+  "Systems Administrator I317":{
+  "BP": 13
+  },
+  "Computer Systems Analyst IV320":{
+  "NE": 12,
+  "CC": 13
+  },
+  "Human Resources Assistant III324":{
+  "TE": 19
+  },
+  "Software Test Engineer III327":{
+  "TE": 28
+  },
+  "Budget/Accounting Analyst III330":{
+  "EW": 3
+  },
+  "Research Associate333":{
+  "DT": 7
+  },
+  "Administrative Assistant III336":{
+  "NS": 23
+  },
+  "Engineer I339":{
+  "PW": 7
+  },
+  "Web Developer III342":{
+  "BP": 2
+  },
+  "Media Manager II345":{
+  "TE": 4
+  },
+  "Human Resources Assistant I348":{
+  "CC": 6
+  },
+  "Staff Accountant III351":{
+  "DT": 10,
+  "TE": 11
+  },
+  "Geologist I355":{
+  "PW": 6
+  },
+  "Office Assistant I358":{
+  "DT": 37,
+  "TE": 31
+  },
+  "Software Engineer IV362":{
+  "CC": 11
+  },
+  "Geologist II365":{
+  "EW": 2,
+  "DT": 32
+  },
+  "Web Developer IV369":{
+  "DT": 33
+  },
+  "Developer IV372":{
+  "DT": 31
+  },
+  "Health Coach I375":{
+  "DT": 8
+  },
+  "Safety Technician I378":{
+  "EW": 4,
+  "CG": 0
+  },
+  "Web Developer I382":{
+  "TE": 25
+  },
+  "Geologist IV385":{
+  "EW": 15
+  },
+  "Nurse2388":{
+  "TE": 23
+  },
+  "VP Quality Control5391":{
+  "JW": 2
+  },
+  "Registered Nurse8394":{
+  "PW": 2
+  },
+  "Assistant Manager11397":{
+  "BP": 4
+  },
+  "Structural Analysis Engineer14400":{
+  "DT": 18
+  },
+  "Director of Sales17403":{
+  "CC": 28
+  },
+  "Analyst Programmer20406":{
+  "JS": 3
+  },
+  "Nurse Practicioner23409":{
+  "JE": 2
+  },
+  "Junior Executive26412":{
+  "JE": 1
+  },
+  "Automation Specialist III29415":{
+  "SW": 4
+  },
+  "Human Resources Assistant II32418":{
+  "EW": 17
+  },
+  "Geologist III35421":{
+  "NS": 19
+  },
+  "Civil Engineer38424":{
+  "JE": 4
+  },
+  "Computer Systems Analyst I41427":{
+  "SW": 7
+  },
+  "Programmer III44430":{
+  "EW": 31
+  },
+  "Social Worker47433":{
+  "EW": 33
+  },
+  "Clinical Specialist50436":{
+  "EW": 32
+  },
+  "Sales Associate53439":{
+  "JS": 10
+  },
+  "Ubi": {
+  "DT": 27
+  },
+  "Pharmacist59445":{
+  "DT": 34
+  },
+  "VP Accounting62448":{
+  "TE": 8
+  },
+  "Analog Circuit Design manager65451":{
+  "NS": 9,
+  "TE": 2
+  },
+  "Office Assistant IV69455":{
+  "TE": 1,
+  "RT": 5
+  },
+  "Assistant Professor73459":{
+  "TE": 3
+  },
+  "Software Engineer III76462":{
+  "NE": 11
+  },
+  "Account Coordinator79465":{
+  "DT": 36
+  },
+  "Research Assistant I82468":{
+  "NS": 5
+  },
+  "Librarian85471":{
+  "NS": 15
+  },
+  "Legal Assistant88474":{
+  "NS": 13
+  }
+  }

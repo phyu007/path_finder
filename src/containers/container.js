@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import { stationNames, getTravelRoute, initialise } from "../utils/path-finder";
+import { stationNames,profNames, getTravelRoute, initialise } from "../utils/path-finder";
 import Header from "../components/header/";
 import EntryExit from "../components/entry-exit";
 import Itinearary from "../components/itinerary";
@@ -11,9 +11,9 @@ class Container extends Component {
 
     this.state = {
       isBooted: false,
-      entries: stationNames,
+      entries: profNames,
       entry: "",
-      exits: stationNames,
+      exits: profNames,
       exit: "",
       paths: []
     };
@@ -29,7 +29,7 @@ class Container extends Component {
   }
 
   getRoute() {
-    if (this.state.entry && this.state.exit) {
+    if (this.state.entry && this.state.exit) { //after keyed in
       getTravelRoute(this.state.entry, this.state.exit).then(routes =>
         this.setState(state => ({ ...state, paths: routes }))
       );
@@ -58,8 +58,8 @@ class Container extends Component {
     );
   }
 
-  removeSelectedStation(station) {
-    return stationNames.filter(name => station !== name);
+  removeSelectedStation(prof) {
+    return profNames.filter(name => prof !== name);
   }
   // render the component
   render() {

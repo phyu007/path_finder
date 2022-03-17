@@ -1,7 +1,7 @@
 {
   "name": "react-path-finder",
   "version": "1.0.0",
-  "description": "Singapore's Rail Network Shortest Path Finder",
+  "description": "I solemnly swear that I am up to no good",
   "keywords": [
     "Dijkstra algorithm",
     "shortest path finder",
@@ -28,5 +28,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
